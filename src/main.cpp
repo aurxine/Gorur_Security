@@ -8,8 +8,8 @@
 #define Indicator_LED_Pin 5
 
 
-float Fixed_Distance = 7.00; // distance from sonar ssensor to wood mounting
-float Allowable_Range = 1.00; //distance change in this range is allowed
+float Fixed_Distance = 13.00; // distance from sonar ssensor to wood mounting
+float Allowable_Range = 2.00; //distance change in this range is allowed
 
 bool unclocked = false;
 bool Alarm = false;
